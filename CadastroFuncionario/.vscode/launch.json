@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "cadastro_usuario.App",
+            "projectName": "CadastroFuncionario"
+        }
+    ]
+}
